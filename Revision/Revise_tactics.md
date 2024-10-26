@@ -1,4 +1,4 @@
-Points to know:
+## Points to know:
 
 1. Always provide brute force logic than go with improvement till optimal one
 2. Ask for requirements, contraints etc.
@@ -89,5 +89,7 @@ Revision notes before any coding technical interview:
 18. Add Two Numbers without Using Arithmetic Operators
 19. Divide Two Integers without Using Division Operator
 20. check if two numbers are equals
+21. count number of bits to flip to convert a to b
+
 
 
