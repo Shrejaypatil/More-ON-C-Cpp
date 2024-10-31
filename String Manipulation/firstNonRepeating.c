@@ -39,11 +39,12 @@ char OptimalNonRepeating(char str[], int n)
     // }
     // printf("\n");
 
-    for (int i = 0; i < 26; i++)
+    for(int i = 0; i<n ;i++)
     {
-        if (count[i] == 1)
+        char ch = str[i];
+        if(count[(ch-'a')] == 1)
         {
-            return ('a' + i);
+            return ch;
         }
     }
 
